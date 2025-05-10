@@ -1,0 +1,21 @@
+#  Number Guessing Game (Python)
+
+A fun and interactive **Number Guessing Game built with Python**. The program randomly selects a number between 1 and 100, and the player tries to guess it in as few attempts as possible. The game provides hints whether the guess is too low or too high.
+
+---
+
+## Features
+
+-  Random number generation (1 to 100)
+-  User input and interactive gameplay
+-  Loop until the correct guess
+-  Feedback for too high/too low guesses
+-  Tracks number of attempts
+
+---
+
+##  Project Structure
+
+number_guessing_game/
+guessing_game.py # Main game script
+README.md # Project documentation
